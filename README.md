@@ -10,7 +10,16 @@ This Task Management Application is a simple yet powerful tool developed using L
 
 ## Installation
 
-We are using the [laravel sail](https://laravel.com/docs/9.x/sail/) to install laravel project and other dependencies.
+### Clone the Repository
+
+To get started, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/sajidijaz/task-management.git
+cd task-management
+```
+
+We are using the [laravel sail](https://laravel.com/docs/11.x/sail) to install laravel project and other dependencies.
 You may install the application's dependencies by navigating to the application's directory and executing the following command. This command uses a small Docker container containing PHP and Composer to install the application's dependencies:
 
 ```bash
